@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="temp_text">Temperature</string>
+    <string name="feels_like_text">Feels like</string>
+    <string name="pressure_text">Pressure</string>
+    <string name="humidity_text">Humidity</string>
+    <string name="georgian_flag">georgian_flag</string>
+    <string name="uk_flag">uk_flag</string>
+    <string name="jamaica_flag">jamaica_flag</string>
+    <string name="weather_icon">weather_icon</string>
+    <string name="details">DETAILS</string>
+</resources>

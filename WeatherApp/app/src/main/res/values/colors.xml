@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="navigation_bar">#06002E</color>
+    <color name="day_background">#059FE4</color>
+    <color name="night_background">#240050</color>
+</resources>
