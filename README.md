@@ -15,7 +15,7 @@ An Android weather application that provides current weather data and a 24-hour 
 
 | Current Weather | Hourly Forecast |
 |-----------------|-----------------|
-| ![Current](Screenshot from 2025-05-19 18-53-58.png) | ![Forecast](Screenshot from 2025-05-19 18-54-53.png) |
+| ![Current](Screenshot%20from%202025-05-19%2018-53-58.png)| ![Forecast](Screenshot%20from%202025-05-19%2018-54-53.png) |
 
 ## 🔧 Tech Stack
 
